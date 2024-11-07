@@ -1,0 +1,156 @@
+html, body{
+margin: 0;
+padding: 0;
+height: 100%;
+font-family:arial;
+text-align : center;
+background-image:url("https://trabalhoshref.github.io/mostruario-imagens/Whispers_of_Elegance_produtos.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+header{
+	margin:0px;
+	padding : 3vw;
+	background-color :rgb(242, 203, 177);
+	border-radius : 5px;
+	border-style: inset;
+	border-color:#C5AF89;
+}
+nav{
+	font-size : 22px;
+	padding:0.35vw 7.2vw 0.35vw 7.2vw;
+	border : 3px solid #C5AF89;
+	background-color:#dbdbdb;
+	border-radius : 10px;
+	border-style: inset;
+	font-weight:bold;
+	letter-spacing:1px;
+}
+
+nav a{
+	padding:0.35vw 7.2vw 0.35vw 7.2vw;
+	text-decoration: none;
+	text-align : left;
+	color :black;
+	background-color :#dbdbdb;
+	letter-spacing:1px;
+}
+nav a:hover{
+	padding:0.35vw 7.2vw 0.35vw 7.2vw;
+	background-color : rgb(186, 188, 190);
+	letter-spacing:1px;
+}
+#logo{
+	width:275px;
+	height :auto;
+}
+
+/*AQUI TERMINA O LAYOUT PARA AS OUTRAS PÁGINAS! */
+
+.imagens{
+	text-align:center;
+	width:325px;
+    height: auto;
+	border-radius:20%;
+	background-color :#dbdbdb;
+	padding : 22px;
+	border : 2.5px solid #C5AF89;
+}
+#imagem1{
+	position:relative;
+	top:100px;
+	right:150px;
+}
+#imagem2{
+	position:relative;
+	top:100px;
+	right:5px;
+}
+#imagem3{
+	position:relative;
+	top:100px;
+	left:147px;
+	margin:0px;
+}
+#imagem4{
+	position:absolute;
+	top:925px;
+	left:76px;
+}
+#imagem5{
+	position:absolute;
+	top:925px;
+	right:610px;
+}
+#imagem6{
+	position:absolute;
+	top:925px;
+	right:80px;
+}
+#imagem7{
+	position:absolute;
+	top:1400px;
+	left:76px;
+}
+#imagem8{
+	position:absolute;
+	top:1400px;
+	right:610px;
+}
+#imagem9{
+	position:absolute;
+	top:1400px;
+	right:80px;
+	margin-bottom:50px;
+}
+#rodape{
+	position:absolute;
+	top:1850px;
+}
+#titulo-imagem1{
+	position:absolute;
+	top:835px;
+	left:200px;
+}
+#titulo-imagem2{
+	position:absolute;
+	top:835px;
+	left:740px;
+}
+#titulo-imagem3{
+	position:absolute;
+	top:835px;
+	right:210px;
+}
+#titulo-imagem4{
+	position:absolute;
+	top:1315px;
+	left:230px;
+}
+#titulo-imagem5{
+	position:absolute;
+	top:1315px;
+	right:755px;
+}
+#titulo-imagem6{
+	position:absolute;
+	top:1315px;
+	right:210px;
+}
+#titulo-imagem7{
+	position:absolute;
+	top:1795px;
+	left:220px;
+}
+#titulo-imagem8{
+	position:absolute;
+	top:1795px;
+	right:740px;
+}
+#titulo-imagem9{
+	position:absolute;
+	top:1795px;
+	right:230px;
+}

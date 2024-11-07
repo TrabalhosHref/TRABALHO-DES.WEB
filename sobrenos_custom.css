@@ -1,0 +1,71 @@
+
+html,body{
+margin: 0;
+padding: 0;
+height: 100vh;
+font-family:arial;
+text-align : center;
+background-image:url("https://trabalhoshref.github.io/mostruario-imagens/Whispers_of_Elegance_produtos.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+}
+
+header{
+	margin:0px;
+	padding : 3vw;
+	background-color :rgb(242, 203, 177);
+	border-radius : 5px;
+	border-style: inset;
+	border-color:#C5AF89;
+}
+nav{
+	font-size : 22px;
+	padding:0.35vw 7.2vw 0.35vw 7.2vw;
+	border : 3px solid #C5AF89;
+	background-color:#dbdbdb;
+	border-radius : 10px;
+	border-style: inset;
+	font-weight:bold;
+		letter-spacing:1px;
+}
+
+nav a{
+	padding:0.35vw 7.2vw 0.35vw 7.2vw;
+	text-decoration: none;
+	text-align : left;
+	color :black;
+	background-color :#dbdbdb;
+	letter-spacing:1px;
+}
+nav a:hover{
+	padding:0.35vw 7.2vw 0.35vw 7.2vw;
+	background-color : rgb(186, 188, 190);
+	letter-spacing:1px;
+}
+#logo{
+	width:275px;
+	height :auto;
+}
+
+/*AQUI TERMINA O LAYOUT PARA AS OUTRAS PÁGINAS! */
+
+#paragrafo{
+	position:absolute;
+	top:315px;
+	right:170px;
+	background-color:white;
+	border : 3px solid #C5AF89;
+	border-radius:8%;
+	padding:100px;
+	padding-right:50px;
+	padding-left:50px;
+	padding-top:25px;
+    padding-bottom:35px;
+}
+#rodape{
+	position:absolute;
+	top:800px;
+}
+
